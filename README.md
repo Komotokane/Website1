@@ -7,3 +7,4 @@ As for the others it was kind of a stretch. We knew we needed more pages so the 
 We also wanted to keep things simple and funcitonal, nothing fancy just a website that works. Functionality over appearance as it were.
 We we also wanted to make it seem like a stage play at first, but the colors were kinda weird so we asked the teacher what they wanted. They wanted a white black and blue color scheme to we abided.
 ![20180228_084850](https://user-images.githubusercontent.com/37153254/37625890-cace278e-2b9b-11e8-8ffa-c22a995b5876.jpg)
+![20180228_203814](https://user-images.githubusercontent.com/37153254/37625924-f26b56f4-2b9b-11e8-9e89-80d8ca746af1.jpg)
