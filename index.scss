@@ -1,3 +1,19 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #3399ff; 
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #000000;
+}
 .avatar {
     vertical-align: middle;
     width: 75px;
@@ -35,6 +51,7 @@
 body {
   background: #000000;
   color: white;
+  line-height: 200%;
 }
 .active{
   background-color: #2600FF;
@@ -148,5 +165,5 @@ body {font-family: Verdana, sans-serif;}
 .days li .active {
     padding: 5px;
     background: #1abc9c;
-    color: white !important
+    color: white;
 }
