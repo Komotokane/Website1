@@ -1,5 +1,6 @@
 # ReadMe
 Team name: D'n Dorks
+
 Here we decided to make a website for the chester county schools theatre program. 
 The reason why is because one of us, Mitchell, is very active in theatre. We both thought they could use a website.
 Often times he wouldn't know when they'd be getting together so having an online way to see when they were practicing would help greatly. One thing we knew we wanted was a schedule for when practice was going to happen. 
