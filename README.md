@@ -11,3 +11,4 @@ We also wanted to keep things simple and functional, nothing fancy just a websit
 We we also wanted to make it seem like a stage play at first, but the colors tht were requested so we asked the teacher what they wanted the colors to be. They wanted a white, black and blue color scheme to we abided.
 
 Page, why you made it like it 1-6
+![20180409_105713 1](https://user-images.githubusercontent.com/37153254/38508904-022e6a22-3be6-11e8-8d97-043b1f120edd.jpg)
