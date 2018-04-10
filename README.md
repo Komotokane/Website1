@@ -14,10 +14,10 @@ Home: We wanted to make like we did because we wanted it simple. Just a quick lo
 
 About: We needed an "about" section because people might want to know what the theater program is about and why it's here. It is a more detailed look as what theater is.
 
-Contact info: just the number and email of those who help work on the shows. quick information if people want to contact the head of the plays.
+Contact info: Just the number and email of those who help work on the shows. quick information if people want to contact the head of the plays.
 
 Class schedule: A calendar for when and how long the get togethers are
 
-Play schedule: what plays are going on and when. It also shows what type of play it is. It can be used for people who are more focused on watching the play
+Play schedule: What plays are going on and when. It also shows what type of play it is. It can be used for people who are more focused on watching the play
 
-Actor of the week: a highlight of our best actors. to act as a kind of reward ceremony like the oscars for each play. 
+Actor of the week: A highlight of our best actors. to act as a kind of reward ceremony like the oscars for each play. 
