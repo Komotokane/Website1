@@ -10,7 +10,7 @@ As for the others it was kind of a stretch. We knew we needed more pages so we d
 We also wanted to keep things simple and functional, nothing fancy just a website that works. Functionality over appearance as it were.
 We we also wanted to make it seem like a stage play at first, but the colors tht were requested so we asked the teacher what they wanted the colors to be. They wanted a white, black and blue color scheme to we abided.
 
-Home: We wanted to make like we did because we wanted it simple. Just a quick look at what's available, simple, and it gives an overview of the entire webpage.
+Home: We wanted to make it like we did because we wanted it simple. Just a quick look at what's available, simple, and it gives an overview of the entire webpage is what we wanted. 
 
 About: We needed an "about" section because people might want to know what the theater program is about and why it's here. It is a more detailed look as what theater is.
 
