@@ -18,14 +18,13 @@ table {
     width: 100%;
     background-color: #3399ff; 
 }
-
 td, th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
 }
-
-tr:nth-child(even) {
+font-family: Yatra One;
+    font-size: 125%;r:nth-child(even) {
     background-color: #000000;
 }
 .avatar {
@@ -39,7 +38,6 @@ tr:nth-child(even) {
     background-color: #3399ff;
     overflow: hidden;
 }
-
 /* Style the links inside the navigation bar */
 .topnav a {
     float: left;
@@ -49,19 +47,16 @@ tr:nth-child(even) {
     text-decoration: none;
     font-size: 17px;
 }
-
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: #3399ff;
     color: black;
 }
-
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color: #FCFCFC;
     color: #000000;
 }
-
 body {
   background: #000000;
   color: white;
@@ -78,14 +73,10 @@ body {
     text-align: center;
     text-decoration: none;
 }
-
 /* Add a hover effect if you want */
 .fa:hover {
     opacity: 0.7;
 }
-
-/* Set a specific color for each brand */
-
 /* Facebook */
 .fa-facebook {
     background: #0066cc;
@@ -104,24 +95,27 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 45%;
-    height: 500px;
-    
+    height: 500px;  
 }
 ul {list-style-type: none;}
-body {font-family: Verdana, sans-serif;}
-
+body {font-family: Verdana,
+    font-size: 125%;}
 /* Month header */
 .month {
     padding: 70px 25px;
     width: 100%;
     background: #1abc9c;
     text-align: center;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 
 /* Month list */
 .month ul {
     margin: 0;
     padding: 0;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 
 .month ul li {
@@ -129,18 +123,22 @@ body {font-family: Verdana, sans-serif;}
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 3px;
+    font-family: Yatra One;
+    font-size: 125%;
 }
-
 /* Previous button inside month header */
 .month .prev {
     float: left;
     padding-top: 10px;
+    font-family: Yatra One;
+    font-size: 125%;
 }
-
 /* Next button */
 .month .next {
     float: right;
     padding-top: 10px;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 
 /* Weekdays (Mon-Sun) */
@@ -148,6 +146,8 @@ body {font-family: Verdana, sans-serif;}
     margin: 0;
     padding: 10px 0;
     background-color:#ddd;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 
 .weekdays li {
@@ -155,15 +155,17 @@ body {font-family: Verdana, sans-serif;}
     width: 13.6%;
     color: #666;
     text-align: center;
+    font-family: Yatra One;
+    font-size: 125%;
 }
-
 /* Days (1-31) */
 .days {
     padding: 10px 0;
     background: #eee;
     margin: 0;
+    font-family: Yatra One;
+    font-size: 125%;
 }
-
 .days li {
     list-style-type: none;
     display: inline-block;
@@ -172,12 +174,14 @@ body {font-family: Verdana, sans-serif;}
     margin-bottom: 5px;
     font-size:12px;
     color: #777;
+    font-family: Yatra One;
 }
-
 /* Highlight the "current" day */
 .days li .active {
     padding: 5px;
     background: #1abc9c;
-    color: white !important
+    color: white !important;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 
