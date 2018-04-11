@@ -13,93 +13,107 @@
     font-size: 125%;
 }
 table {
-    font-family: arial, sans-serif;
+    font-family: Yatra One;
     border-collapse: collapse;
     width: 100%;
     background-color: #3399ff; 
+    font-size: 125%;
 }
 td, th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+    font-family: Yatra One;
 }
-font-family: Yatra One;
-    font-size: 125%;r:nth-child(even) {
+tr:nth-child(even) {
     background-color: #000000;
+    font-family: Yatra One;
 }
 .avatar {
     vertical-align: middle;
     width: 75px;
     height: 100px;
     border-radius: 50%;
+    font-family: Yatra One;
 }
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #3399ff;
     overflow: hidden;
+    font-family: Yatra One;
 }
 /* Style the links inside the navigation bar */
 .topnav a {
     float: left;
-    color: black;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-family: Yatra One;
 }
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: #3399ff;
     color: black;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color: #FCFCFC;
     color: #000000;
+    font-family: Yatra One;
 }
 body {
   background: #000000;
   color: white;
+  line-height: 200%;
+  font-family: Yatra One;
 }
 .active{
   background-color: #2600FF;
+  font-family: Yatra One;
+  font-size: 125%;
 }
-
 /* Style all font awesome icons */
 .fa {
     padding: 20px;
-    font-size: 30px;
+    font-size: 125%;
     width: 50px;
     text-align: center;
     text-decoration: none;
+    font-family: Yatra One;
 }
 /* Add a hover effect if you want */
 .fa:hover {
     opacity: 0.7;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 /* Facebook */
 .fa-facebook {
     background: #0066cc;
     color: white;
-}
-.fa-snapchat {
-    background: #ffff00;
-    color: white;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 .fa-instagram {
     background: #4da6ff;
     color: white;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 45%;
-    height: 500px;  
+    height: 500px;
+    font-family: Yatra One;
+    font-size: 125%;
 }
 ul {list-style-type: none;}
-body {font-family: Verdana,
-    font-size: 125%;}
+body {font-family: Yatra One; font-size: 125%;}
 /* Month header */
 .month {
     padding: 70px 25px;
@@ -109,7 +123,6 @@ body {font-family: Verdana,
     font-family: Yatra One;
     font-size: 125%;
 }
-
 /* Month list */
 .month ul {
     margin: 0;
@@ -117,14 +130,12 @@ body {font-family: Verdana,
     font-family: Yatra One;
     font-size: 125%;
 }
-
 .month ul li {
     color: white;
-    font-size: 20px;
+    font-size: 125%;
     text-transform: uppercase;
     letter-spacing: 3px;
     font-family: Yatra One;
-    font-size: 125%;
 }
 /* Previous button inside month header */
 .month .prev {
@@ -140,7 +151,6 @@ body {font-family: Verdana,
     font-family: Yatra One;
     font-size: 125%;
 }
-
 /* Weekdays (Mon-Sun) */
 .weekdays {
     margin: 0;
@@ -149,7 +159,6 @@ body {font-family: Verdana,
     font-family: Yatra One;
     font-size: 125%;
 }
-
 .weekdays li {
     display: inline-block;
     width: 13.6%;
@@ -172,7 +181,7 @@ body {font-family: Verdana,
     width: 13.6%;
     text-align: center;
     margin-bottom: 5px;
-    font-size:12px;
+    font-size: 125%;
     color: #777;
     font-family: Yatra One;
 }
@@ -184,4 +193,3 @@ body {font-family: Verdana,
     font-family: Yatra One;
     font-size: 125%;
 }
-
